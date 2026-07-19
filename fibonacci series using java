@@ -3,7 +3,7 @@ public class fibonacci {
         // Initialize first two fibonacci numbers
         int a=0;
         int b=1;
-        //print first nimber
+        //print first number
         System.out.print(a);
         // loop to print the next 10 finonacci numbers
         for(int i=0;i<=10;i++){
